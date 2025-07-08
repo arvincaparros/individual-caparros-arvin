@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NexusScm.Web.props" />
+</Project>

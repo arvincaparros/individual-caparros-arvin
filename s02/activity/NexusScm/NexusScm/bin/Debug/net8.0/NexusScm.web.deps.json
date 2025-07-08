@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NexusScm.Web/1.0.0": {
+        "runtime": {
+          "NexusScm.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NexusScm.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
