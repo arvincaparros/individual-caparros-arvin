@@ -16,6 +16,7 @@ namespace NexusScm.Controllers
 
         public IActionResult Index()
         {
+            ViewData["WelcomeMessage"] = "Welcome to the Nexus Supply Chain Management System!";
             return View();
         }
 

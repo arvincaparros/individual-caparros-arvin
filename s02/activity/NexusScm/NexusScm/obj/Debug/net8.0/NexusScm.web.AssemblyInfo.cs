@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NexusScm.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64d011cedfc89d6023ac820a05d87876d011905c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7032de3e21555d2b26a0a658e1c454aa938d5694")]
 [assembly: System.Reflection.AssemblyProductAttribute("NexusScm.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NexusScm.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

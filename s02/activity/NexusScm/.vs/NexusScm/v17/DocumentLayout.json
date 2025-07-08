@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s02\\activity\\nexusscm\\nexusscm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|solutionrelative:nexusscm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s02\\activity\\nexusscm\\nexusscm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|solutionrelative:nexusscm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s02\\activity\\nexusscm\\nexusscm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|solutionrelative:nexusscm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s02\\activity\\nexusscm\\nexusscm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 326,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "NexusScm\\Views\\Home\\Index.cshtml",
@@ -63,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NexusScm\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NexusScm\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T01:48:09.019Z",
               "EditorCaption": ""
