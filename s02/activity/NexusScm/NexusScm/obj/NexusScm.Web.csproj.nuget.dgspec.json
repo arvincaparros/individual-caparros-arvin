@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj": {}
+    "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj": {
+    "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj",
+        "projectUniqueName": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj",
         "projectName": "NexusScm.Web",
-        "projectPath": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj",
+        "projectPath": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\NexusScm.Web.csproj",
         "packagesPath": "C:\\Users\\caparrar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\activity\\NexusScm\\NexusScm\\obj\\",
+        "outputPath": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\activity\\NexusScm\\NexusScm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

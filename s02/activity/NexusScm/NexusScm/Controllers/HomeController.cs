@@ -16,8 +16,6 @@ namespace NexusScm.Controllers
 
         public IActionResult Index()
         {
-            var projectName = Assembly.GetExecutingAssembly().GetName().Name;
-            ViewBag.ProjectName = projectName;
             return View();
         }
 
