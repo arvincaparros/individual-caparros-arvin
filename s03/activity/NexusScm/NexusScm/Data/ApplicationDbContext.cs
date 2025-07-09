@@ -14,7 +14,7 @@ namespace NexusScm.Web.Data
         {
             modelBuilder.Entity<Product>()
                 .Property(p => p.Price)
-                .HasPrecision(10, 2); // same meaning
+                .HasPrecision(10, 2); 
         }
     }
 }

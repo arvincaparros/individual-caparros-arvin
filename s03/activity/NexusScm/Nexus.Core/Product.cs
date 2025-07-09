@@ -20,7 +20,6 @@ namespace Nexus.Core
         // Foreign Key
         public int SupplierId { get; set; }
 
-        // Navigation Property
         public Supplier Supplier { get; set; }
     }
 }
