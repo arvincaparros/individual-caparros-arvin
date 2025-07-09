@@ -9,7 +9,6 @@ namespace Nexus.Core
 {
     public class Supplier
     {
-
         public int Id { get; set; }
 
         [Required]
