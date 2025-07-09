@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\discussion\\NexusScm\\",
+  "WorkspaceRootPath": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\discussion\\NexusScm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.web.csproj|c:\\users\\caparrar\\documents\\individual-caparros-arvin\\s02\\discussion\\nexusscm\\nexusscm\\views\\homes\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.web.csproj|solutionrelative:nexusscm\\views\\homes\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s02\\discussion\\nexusscm\\nexusscm\\views\\homes\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|solutionrelative:nexusscm\\views\\homes\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.web.csproj|c:\\users\\caparrar\\documents\\individual-caparros-arvin\\s02\\discussion\\nexusscm\\nexusscm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.web.csproj|solutionrelative:nexusscm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s02\\discussion\\nexusscm\\nexusscm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|solutionrelative:nexusscm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.web.csproj|c:\\users\\caparrar\\documents\\individual-caparros-arvin\\s02\\discussion\\nexusscm\\nexusscm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.web.csproj|solutionrelative:nexusscm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s02\\discussion\\nexusscm\\nexusscm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFF8FD33-0290-431D-82F0-9C418A156354}|NexusScm\\NexusScm.Web.csproj|solutionrelative:nexusscm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\discussion\\NexusScm\\NexusScm\\Views\\Homes\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\discussion\\NexusScm\\NexusScm\\Views\\Homes\\Privacy.cshtml",
               "RelativeDocumentMoniker": "NexusScm\\Views\\Homes\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\discussion\\NexusScm\\NexusScm\\Views\\Homes\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\discussion\\NexusScm\\NexusScm\\Views\\Homes\\Privacy.cshtml",
               "RelativeToolTip": "NexusScm\\Views\\Homes\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -49,27 +49,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\discussion\\NexusScm\\NexusScm\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\discussion\\NexusScm\\NexusScm\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NexusScm\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\discussion\\NexusScm\\NexusScm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\discussion\\NexusScm\\NexusScm\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NexusScm\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T01:48:09.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T01:48:09.019Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\discussion\\NexusScm\\NexusScm\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\discussion\\NexusScm\\NexusScm\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "NexusScm\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\caparrar\\Documents\\individual-caparros-arvin\\s02\\discussion\\NexusScm\\NexusScm\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s02\\discussion\\NexusScm\\NexusScm\\Properties\\launchSettings.json",
               "RelativeToolTip": "NexusScm\\Properties\\launchSettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T01:40:36.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T01:40:36.774Z"
             }
           ]
         },
