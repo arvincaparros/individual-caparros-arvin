@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\caparrar\\Desktop\\BRT003\\s04\\activity\\NexusScm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s04\\activity\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s04\\activity\\nexusscm\\nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s04\\activity\\nexusscm\\nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s04\\activity\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s04\\activity\\nexusscm\\nexus.web\\views\\suppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 326,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,26 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s04\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Index.cshtml",
               "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
               "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s04\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Index.cshtml",
               "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-10T03:00:32.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s04\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
               "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
               "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s04\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
               "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-10T02:41:03.268Z",
               "EditorCaption": ""
@@ -80,8 +80,7 @@
               "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T02:22:36.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T02:22:36.625Z"
             },
             {
               "$type": "Document",
@@ -105,18 +104,17 @@
               "RelativeToolTip": "Nexus.Web\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:44:50.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:44:50.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SuppliersController.cs",
               "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s04\\activity\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\SuppliersController.cs",
               "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s04\\activity\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "Nexus.Web\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T00:47:12.384Z",
               "EditorCaption": ""

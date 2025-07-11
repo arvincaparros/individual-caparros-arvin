@@ -39,7 +39,6 @@ namespace Nexus.Web.Controllers
             return View(supplier);
         }
 
-        [AllowAnonymous]
         [HttpGet]
         public IActionResult Create()
         {
