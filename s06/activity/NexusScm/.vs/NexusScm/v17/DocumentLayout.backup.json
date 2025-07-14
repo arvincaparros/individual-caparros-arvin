@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.api\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.api\\nexus.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\nexus.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.web\\views\\suppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\caparrar\\desktop\\brt003\\s06\\activity\\nexusscm\\nexus.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 326,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Program.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Program.cs",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Program.cs",
+              "RelativeToolTip": "Nexus.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:18:09.13Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Middleware\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Nexus.API\\Middleware\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:39:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs*",
+              "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwH0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:07:02.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Nexus.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\appsettings.json",
+              "RelativeToolTip": "Nexus.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T01:27:40.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Nexus.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\appsettings.json",
+              "RelativeToolTip": "Nexus.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T01:27:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Nexus.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:26:13.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nexus.API.csproj",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Nexus.API.csproj",
+              "RelativeDocumentMoniker": "Nexus.API\\Nexus.API.csproj",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.API\\Nexus.API.csproj",
+              "RelativeToolTip": "Nexus.API\\Nexus.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T01:19:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Nexus.Web\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:47:12.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T03:00:32.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T02:22:36.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T02:41:03.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\caparrar\\Desktop\\BRT003\\s06\\activity\\NexusScm\\Nexus.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nexus.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:50:22.571Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
