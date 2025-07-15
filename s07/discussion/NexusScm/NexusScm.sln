@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Web", "Nexus.Web\Nexus.Web.csproj", "{C20DCDF1-D617-427A-A012-80C6E545A751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Core", "Nexus.Core\Nexus.Core.csproj", "{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.API", "Nexus.API\Nexus.API.csproj", "{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20DCDF1-D617-427A-A012-80C6E545A751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20DCDF1-D617-427A-A012-80C6E545A751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20DCDF1-D617-427A-A012-80C6E545A751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20DCDF1-D617-427A-A012-80C6E545A751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
