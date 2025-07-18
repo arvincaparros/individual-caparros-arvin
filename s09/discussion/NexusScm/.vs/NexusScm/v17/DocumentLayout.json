@@ -1,37 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\",
+  "WorkspaceRootPath": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.web\\filters\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\filters\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}|Nexus.Core\\Nexus.Core.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}|Nexus.Core\\Nexus.Core.csproj|solutionrelative:nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\nexusscm\\nexus.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}|Nexus.Core\\Nexus.Core.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B743B3-94FD-4341-BD03-D2CDB6A8BE36}|Nexus.Core\\Nexus.Core.csproj|solutionrelative:nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF24E3-0C52-4D2E-96A6-F8F6ADD28759}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s09\\discussion\\nexusscm\\nexus.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,30 +62,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Core\\Supplier.cs",
-              "RelativeDocumentMoniker": "Nexus.Core\\Supplier.cs",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Core\\Supplier.cs",
-              "RelativeToolTip": "Nexus.Core\\Supplier.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T00:42:20.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "RelativeToolTip": "Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:15:50.789Z",
+              "WhenOpened": "2025-07-18T00:29:50.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Program.cs",
+              "RelativeToolTip": "Nexus.Web\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:22:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SuppliersController.cs",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\SuppliersController.cs",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "Nexus.Web\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T00:44:47.846Z",
               "EditorCaption": ""
@@ -73,80 +119,113 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Nexus.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Nexus.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T03:49:38.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SuppliersController.cs",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
-              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
-              "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowGYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:31:04.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Nexus.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:32:17.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Nexus.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T01:33:11.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T02:51:49.726Z",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Services\\TokenService.cs",
+              "RelativeToolTip": "Nexus.API\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:18:25.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Nexus.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\appsettings.json",
+              "RelativeToolTip": "Nexus.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T00:16:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Core\\Supplier.cs",
+              "RelativeDocumentMoniker": "Nexus.Core\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Core\\Supplier.cs",
+              "RelativeToolTip": "Nexus.Core\\Supplier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:15:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Nexus.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Nexus.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T03:49:38.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:31:04.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Nexus.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:32:17.634Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T02:51:49.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Auth\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Nexus.Web\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "Nexus.Web\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T01:35:12.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T01:35:12.332Z"
             }
           ]
         }

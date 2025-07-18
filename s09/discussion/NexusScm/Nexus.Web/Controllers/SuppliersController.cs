@@ -3,11 +3,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Nexus.Core;
 using Nexus.Web.Data;
+using Nexus.Web.Filters;
 using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Nexus.Web.Controllers
 {
+    [SessionAuthorize]
     public class SuppliersController : Controller
     {
         //private readonly ApplicationDbContext _context;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "USMiL2rWeus=",
+  "dgSpecHash": "R23z0D7VMfg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin-main\\individual-caparros-arvin-main\\s09\\discussion\\NexusScm\\Nexus.Api.Tests\\Nexus.Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s09\\discussion\\NexusScm\\Nexus.Api.Tests\\Nexus.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arvin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Arvin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -45,6 +45,12 @@ namespace Nexus.Web.Controllers
             return View(loginDto);
             
         }
+
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Index", "Home");
+        }
         
     }
 }
