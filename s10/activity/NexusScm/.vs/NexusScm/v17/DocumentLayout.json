@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s10\\activity\\NexusScm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s10\\activity\\nexusscm\\nexus.web\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s10\\activity\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s10\\activity\\nexusscm\\nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s10\\activity\\nexusscm\\nexus.web\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20DCDF1-D617-427A-A012-80C6E545A751}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\arvin\\documents\\individual-caparros-arvin\\s10\\activity\\nexusscm\\nexus.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s10\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Index.cshtml",
               "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-18T02:52:11.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:52:11.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s10\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
               "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s10\\activity\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
               "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-18T02:44:56.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SuppliersController.cs",
               "DocumentMoniker": "C:\\Users\\Arvin\\Documents\\individual-caparros-arvin\\s10\\activity\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\SuppliersController.cs",
